@@ -81,6 +81,11 @@
 				triggerOnce: true
 			});
 
+			$('.mu-Net-bar').LineProgressbar({
+				percentage: 88,
+				triggerOnce: true
+			});
+
 			$('.mu-HTML-bar').LineProgressbar({
 				percentage: 77,
 				triggerOnce: true
